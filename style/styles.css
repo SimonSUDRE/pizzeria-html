@@ -20,7 +20,7 @@ a {
     display: inline;
 }
 
-nav li a {
+#navigation li a {
     padding: 5px 20px;
     background: #CC0000;
     color: #FFFFFF;

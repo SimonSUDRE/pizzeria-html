@@ -7,7 +7,7 @@
 <body>
 	<h1>Gestion des pizzas</h1>
 	<h2>Création d'une pizza</h2>
-	<a href="./ListerPizza.html">Retour à la liste</a>
+	<a href="ListerPizza.php">Retour à la liste</a>
 	<form method="POST" action="./script/ajouter_pizza.php">
 		<table width=50%>
        		<tr>
